@@ -7,3 +7,6 @@ Este es un blog de prueba para practicar con Git y Github
 * Flujo de trabajo en Github
 * Buenas prácticas
 * Incluye ejemplos en Windows, Linux y Mac
+
+
+Disponible desde nivel 0 😎
